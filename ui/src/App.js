@@ -904,7 +904,7 @@ class App extends Component {
                       // text='Loading your content...'
       >
 
-      <Container id="containerId" fluid={true} style={{paddingTop: '20vh', minHeight: '100vh'}}>
+      <Container id="containerId" fluid={true} style={{paddingTop: '20vh', minHeight: '100vh', paddingBottom: '100px'}}>
 
 
 
